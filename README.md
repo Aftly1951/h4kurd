@@ -1,5 +1,4 @@
-# [Creed BoT](https://telegram.me/creedsteam) 
-**An Edited Bot Based On [Tele seed](http://github.com/SeedTeam/teleseed) Plugins and Added new and Usefull Plugins to it 
+**An Edited Bot Based On [Tele seed](https://github.com/Aftly1951/h4kurd) Plugins and Added new and Usefull Plugins to it 
 # Features
 
 * **A powerful Anti spam with custom sensitivity For each group**
@@ -455,9 +454,6 @@ _Sudo users and admins can also use this commands in all groups_
 >/[!]text [text]
 >> This command Writes your Test in picture and sends it to you
 
-
-New plugins BY : [@Creed_is_dead](http://telegram.me/Creed_is_dead)
-
 # Installation 
 
 ```bash
@@ -468,7 +464,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot
 cd $HOME
-git clone https://github.com/Creedsteam/creed.git
+git clone https://github.com/Aftly1951/h4kurd.git
 cd creed
 chmod +x launch.sh
 ./launch.sh install
@@ -483,7 +479,7 @@ To install everything in one command on debian-based distros, use: (useful for V
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
 
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/creedsteam/creed.git && cd creed && chmod +x launch.sh && ./launch.sh install && cd $home $$ cd creed & cd tg && cd tgl  && nano structures.c
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/Aftly1951/h4kurd.git && cd creed && chmod +x launch.sh && ./launch.sh install && cd $home $$ cd creed & cd tg && cd tgl  && nano structures.c
 
 then you have to go to the line 983 there is 4 Blue Line you have to delete them and Put this Sentence in there  : 
 
@@ -515,30 +511,3 @@ add your id to the "sudo_users" section in the following format:
   }
 ```
 then start the bot again
-
-Create a realm using !createrealm command
-
-
-# Support and development
-
-Do not contact **us** In private for support.
-Join our bot development group by sending `/join 76950056` to [@Creed_antispam](https://telegram.me/creedantispam_channel)
-
-_If you are using /join service for first time you have to send it 11 times ( Bot is spam reported )_
-
-# Special thanks to
-
-For Creating The [CreedboT](http://github.com/CreedsTeam/Creed)
-
-[@Creed_is_dead](https://telegram.me/Arsalan_sahel)
-
-For Managing [@Creed_antispam](https://telegram.me/Creed_antispam) on Telegram
-
-[@Aria_Creed](https://telegram.me/Creed_aria)
-
-[@Amircc_Creed](https://telegram.me/Amircc_Creed)
-
-For graphic designs
-
-[@Jacki_Pendelton](https://telegram.me/Jacki_Pendelton)
-Our Telegram cahnnels > Persian : [@Creedantispam_Channel](https://telegram.me/creedantispam_Channel)
